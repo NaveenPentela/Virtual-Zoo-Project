@@ -2,12 +2,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
-/**
- * @author Naveen Pentela,
- * St id:- 2293004
- * FAN:-pent0020
+/*
+ * Author: Naveen Pentela <pent0020@flinders.edu.au>
+ * College of Science and Engineering, Flinders University
+ * Copyright (C) 2023, All Rights Reserved
  */
+
 public class VirtualZoo {
 
     private final Scanner scan;
